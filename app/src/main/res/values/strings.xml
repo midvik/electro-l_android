@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Electro-L</string>
+    <string name="set_background">Set wallpaper</string>
+    <string name="start_service">Start service</string>
+    <string name="stop_service">Stop service</string>
+    <string name="update_interval">Update interval, min</string>
+    <string name="update_started">Update started</string>
+    <string name="updated_at">Updated at</string>
+</resources>

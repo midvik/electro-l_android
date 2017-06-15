@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Электро-Л</string>
+    <string name="set_background">Установить обои</string>
+    <string name="start_service">Запустить сервис</string>
+    <string name="stop_service">Остановить сервис</string>
+    <string name="update_interval">Интервал обновления изображения, минут</string>
+    <string name="update_started">Обновление запущено</string>
+    <string name="updated_at">"Обновлено в "</string>
+</resources>
